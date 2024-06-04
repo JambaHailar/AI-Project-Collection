@@ -1,15 +1,21 @@
 # papers
+
 https://arxiv.org/abs/1706.03762
 https://arxiv.org/abs/2404.19756
 
 
 # AI self-learning
 
-https://github.com/microsoft/generative-ai-for-beginners
-https://github.com/PKUFlyingPig/cs-self-learning
+
+| name                        | link                                                     |
+| --------------------------- | -------------------------------------------------------- |
+| generative-ai-for-beginners | https://github.com/microsoft/generative-ai-for-beginners |
+| cs-self-learning            | https://github.com/PKUFlyingPig/cs-self-learning         |
+
 
 # Text generation model
-## model
+## models
+
 https://github.com/xai-org/grok-1
 https://github.com/QwenLM/Qwen
 
