@@ -1,4 +1,4 @@
-![image1.jpg]（\images\image1.jpg）
+![image1.jpg](\images\image1.jpg)
 
 持续更新AI领域项目链接，内容逐步完善中
 Continuously update the links of AI projects, and the content is gradually improving
