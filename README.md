@@ -1,12 +1,12 @@
-![\images\image1.jpg](https://github.com/JambaHailar/AI-Project-Collection/blob/master/images/image1.jpg)
+![](https://github.com/JambaHailar/AI-Project-Collection/blob/master/images/image1.jpg)
 
+<p align="center">各领域AI项目集合目录</p>
+<p align="center">持续更新AI领域项目链接，内容逐步完善中</p>
+<p align="center">Continuously update the links of AI projects, and the content is gradually improving</p>
+<p align="center">Aggiorna continuamente i collegamenti ai progetti nel campo dell'intelligenza artificiale e il contenuto viene gradualmente migliorato.</p>
+<p align="center">AI分野のプロジェクトリンクは継続的に更新され、内容は徐々に改善されています。</p>
 
-<p>持续更新AI领域项目链接，内容逐步完善中</p>
-<h>Continuously update the links of AI projects, and the content is gradually improving</h>
-<h>Aggiorna continuamente i collegamenti ai progetti nel campo dell'intelligenza artificiale e il contenuto viene gradualmente migliorato.</h>
-<h>AI分野のプロジェクトリンクは継続的に更新され、内容は徐々に改善されています。</h>
-
-<h><a href="https://www.buymeacoffee.com/huaqiang11w" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></h>
+<h1 align="center"><a href="https://www.buymeacoffee.com/huaqiang11w" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></h1>
 
 # 自学 AI self-learning
 
