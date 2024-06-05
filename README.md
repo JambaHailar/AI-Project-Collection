@@ -14,21 +14,19 @@
 | --------------------------- | -------------------------------------------------------- |
 | generative-ai-for-beginners | https://github.com/microsoft/generative-ai-for-beginners |
 | cs-self-learning            | https://github.com/PKUFlyingPig/cs-self-learning         |
+| AI-Edu                      | https://github.com/microsoft/ai-edu                      |
 
 # 语言大模型 Text generation model
 
-## 模型基座 Model base
-https://github.com/ollama/ollama
+Models is not included. To download the model, please visit https://huggingface.co/
 
-## 网页 webui
-https://github.com/open-webui/open-webui
-
-## 工具 tools
-
-| name                   | link                                                     |
-| ---------------------- | -------------------------------------------------------- |
-| ChatGPT_desktop_app    | https://github.com/lencx/ChatGPT                         |
-| gpt-computer-assistant | https://github.com/onuratakan/gpt-computer-assistant<br> |
+| name                   | link                                                     | type  |
+| ---------------------- | -------------------------------------------------------- | ----- |
+| ChatGPT_desktop_app    | https://github.com/lencx/ChatGPT                         |       |
+| gpt-computer-assistant | https://github.com/onuratakan/gpt-computer-assistant<br> |       |
+| open-webui             | https://github.com/open-webui/open-webui                 | webui |
+| ollama                 | https://github.com/ollama/ollama                         | base  |
+|                        |                                                          |       |
 
 # 知识库 AI knowledge base
 
@@ -68,7 +66,11 @@ https://github.com/open-webui/open-webui
 | StableCascade    | https://github.com/Stability-AI/StableCascade |
 
 # 视频生成 Video generation
-https://github.com/hpcaitech/Open-Sora
+
+| name      | link                                   |
+| --------- | -------------------------------------- |
+| SoraWebui | https://github.com/SoraWebui/SoraWebui |
+| Open-Sora | https://github.com/hpcaitech/Open-Sora |
 
 # 搜索引擎 AI search engine
 
