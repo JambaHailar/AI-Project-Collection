@@ -1,15 +1,12 @@
 ![\images\image1.jpg](https://github.com/JambaHailar/AI-Project-Collection/blob/master/images/image1.jpg)
 
 
-持续更新AI领域项目链接，内容逐步完善中
-Continuously update the links of AI projects, and the content is gradually improving
-Aggiorna continuamente i collegamenti ai progetti nel campo dell'intelligenza artificiale e il contenuto viene gradualmente migliorato.
-AI分野のプロジェクトリンクは継続的に更新され、内容は徐々に改善されています。
+<p>持续更新AI领域项目链接，内容逐步完善中</p>
+<h>Continuously update the links of AI projects, and the content is gradually improving</h>
+<h>Aggiorna continuamente i collegamenti ai progetti nel campo dell'intelligenza artificiale e il contenuto viene gradualmente migliorato.</h>
+<h>AI分野のプロジェクトリンクは継続的に更新され、内容は徐々に改善されています。</h>
 
-# 论文 papers
-
-https://arxiv.org/abs/1706.03762
-https://arxiv.org/abs/2404.19756
+<h><a href="https://www.buymeacoffee.com/huaqiang11w" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></h>
 
 # 自学 AI self-learning
 
@@ -19,10 +16,6 @@ https://arxiv.org/abs/2404.19756
 | cs-self-learning            | https://github.com/PKUFlyingPig/cs-self-learning         |
 
 # 语言大模型 Text generation model
-## 模型 models
-
-https://github.com/xai-org/grok-1
-https://github.com/QwenLM/Qwen
 
 ## 模型基座 Model base
 https://github.com/ollama/ollama
@@ -31,7 +24,11 @@ https://github.com/ollama/ollama
 https://github.com/open-webui/open-webui
 
 ## 工具 tools
-https://github.com/lencx/ChatGPT
+
+| name                   | link                                                     |
+| ---------------------- | -------------------------------------------------------- |
+| ChatGPT_desktop_app    | https://github.com/lencx/ChatGPT                         |
+| gpt-computer-assistant | https://github.com/onuratakan/gpt-computer-assistant<br> |
 
 # 知识库 AI knowledge base
 
@@ -40,6 +37,7 @@ https://github.com/lencx/ChatGPT
 | QAnything | https://github.com/netease-youdao/QAnything |
 | ragflow   | https://github.com/infiniflow/ragflow       |
 | reor      | https://github.com/reorproject/reor         |
+| khoj      | https://github.com/khoj-ai/khoj             |
 
 # 声音合成 Text-to-sound
 
@@ -73,18 +71,59 @@ https://github.com/lencx/ChatGPT
 https://github.com/hpcaitech/Open-Sora
 
 # 搜索引擎 AI search engine
-https://github.com/ItzCrazyKns/Perplexica
+
+| name       | link                                      |
+| ---------- | ----------------------------------------- |
+| Perplexica | https://github.com/ItzCrazyKns/Perplexica |
+| farfalle   | https://github.com/rashadphz/farfalle     |
+# 学术  AI Academic
+
+| name            | link                                         |
+| --------------- | -------------------------------------------- |
+| ChatPaper       | https://github.com/kaixindelele/ChatPaper    |
+| ChatPaper2Xmind | https://github.com/MasterYip/ChatPaper2Xmind |
+| storm           | https://storm.genie.stanford.edu/            |
 
 # 智能体搭建 AI Agent to build
-https://github.com/langgenius/dify
+
+| name     | link                                   |
+| -------- | -------------------------------------- |
+| dify     | https://github.com/langgenius/dify     |
+| tracecat | https://github.com/TracecatHQ/tracecat |
 
 # 程序员AI programmer
-https://github.com/Pythagora-io/gpt-pilot
-https://github.com/stitionai/devika
+
+| name       | link                                      |
+| ---------- | ----------------------------------------- |
+| gpt-pilot  | https://github.com/Pythagora-io/gpt-pilot |
+| devika     | https://github.com/stitionai/devika       |
+| CopilotKit | https://github.com/CopilotKit/CopilotKit  |
 
 # 视频剪辑AI Video clips
-https://github.com/FujiwaraChoki/MoneyPrinter
+
+| name              | link                                           |
+| ----------------- | ---------------------------------------------- |
+| MoneyPrinterTurbo | https://github.com/harry0703/MoneyPrinterTurbo |
+| MoneyPrinter      | https://github.com/FujiwaraChoki/MoneyPrinter  |
 
 # 字幕识别 Video subtitle extraction
-https://github.com/YaoFANGUK/video-subtitle-extractor?tab=readme-ov-file
+## 声音转字幕 Audio to subtitles
+
+| name | link |
+| ---- | ---- |
+|      |      |
+|      |      |
+
+## 硬字幕OCR提取 Hard subtitle extraction
+
+| name | link                                                  |
+| ---- | ----------------------------------------------------- |
+| vse  | https://github.com/YaoFANGUK/video-subtitle-extractor |
+
+# 爬虫 AI Web crawler
+
+| name           | link                                         |
+| -------------- | -------------------------------------------- |
+| Scrapegraph-ai | https://github.com/VinciGit00/Scrapegraph-ai |
+|                |                                              |
 
