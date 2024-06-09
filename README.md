@@ -1,4 +1,4 @@
-	![](https://github.com/JambaHailar/AI-Project-Collection/blob/master/images/image1.jpg)
+<img src="https://images.jamba.asia/i/2024/06/09/666574f924a56.jpg" alt="默认标题__2024-06-0422_30_07.jpg" title="默认标题__2024-06-0422_30_07.jpg" />
 
 <p align="center">各领域AI项目集合目录</p>
 <p align="center">持续更新AI领域项目链接，内容逐步完善中</p>
